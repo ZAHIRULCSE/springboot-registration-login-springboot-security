@@ -1,0 +1,12 @@
+/home/zayan/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/registration-login-springboot-security-thymeleaf-master/src/main/java/net/javaguides/springboot/springsecurity/repository/UserRepository.java
+/home/zayan/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/registration-login-springboot-security-thymeleaf-master/src/main/java/net/javaguides/springboot/springsecurity/model/Role.java
+/home/zayan/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/registration-login-springboot-security-thymeleaf-master/src/main/java/net/javaguides/springboot/springsecurity/web/dto/UserRegistrationDto.java
+/home/zayan/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/registration-login-springboot-security-thymeleaf-master/src/main/java/net/javaguides/springboot/springsecurity/service/UserServiceImpl.java
+/home/zayan/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/registration-login-springboot-security-thymeleaf-master/src/main/java/net/javaguides/springboot/springsecurity/model/User.java
+/home/zayan/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/registration-login-springboot-security-thymeleaf-master/src/main/java/net/javaguides/springboot/springsecurity/service/UserService.java
+/home/zayan/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/registration-login-springboot-security-thymeleaf-master/src/main/java/net/javaguides/springboot/springsecurity/config/SecurityConfiguration.java
+/home/zayan/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/registration-login-springboot-security-thymeleaf-master/src/main/java/net/javaguides/springboot/springsecurity/constraint/FieldMatchValidator.java
+/home/zayan/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/registration-login-springboot-security-thymeleaf-master/src/main/java/net/javaguides/springboot/springsecurity/web/MainController.java
+/home/zayan/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/registration-login-springboot-security-thymeleaf-master/src/main/java/net/javaguides/springboot/springsecurity/Application.java
+/home/zayan/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/registration-login-springboot-security-thymeleaf-master/src/main/java/net/javaguides/springboot/springsecurity/web/UserRegistrationController.java
+/home/zayan/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/registration-login-springboot-security-thymeleaf-master/src/main/java/net/javaguides/springboot/springsecurity/constraint/FieldMatch.java
